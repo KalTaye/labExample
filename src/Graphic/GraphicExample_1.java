@@ -55,9 +55,7 @@ class DrawingPanel extends JPanel implements ActionListener , KeyListener{
     public void keyReleased(KeyEvent ke) {
        gravity = 10 ;
     }
-    public void setKeyCode(KeyEvent P){
-        
-}
+
 }
 public class GraphicExample_1 {
     public static void main(String[] args) {
